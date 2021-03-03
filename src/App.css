@@ -15,6 +15,7 @@ input[type=text]{
     background-position: 10px 10px;
     background-repeat: no-repeat;
     background-size: 15px;
+    outline: none;
 }
 #search-btn{
     background-color: #101820ff;
